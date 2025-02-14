@@ -1,18 +1,14 @@
 {
-	"status": false,
-	"info": "ok",
-	"offline": {
-		"arizona_pc": {
-			"status": false,
-			"info": "ok"
-		},
-		"rodina_pc": {
-			"status": false,
-			"info": "ok"
-		},
-		"arizona_mobile": {
-			"status": false,
-			"info": "ok"
-		}
+	"arizona_pc": {
+		"status": false,
+		"info": "ok"
+	},
+	"rodina_pc": {
+		"status": false,
+		"info": "ok"
+	},
+	"arizona_mobile": {
+		"status": false,
+		"info": "ok"
 	}
 }
