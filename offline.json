@@ -1,6 +1,6 @@
 {
 	"arizona_pc": {
-		"status": false,
+		"status": true,
 		"info": "Технические неполадки"
 	},
 	"rodina_pc": {
@@ -8,7 +8,7 @@
 		"info": "Технические неполадки"
 	},
 	"arizona_mobile": {
-		"status": false,
+		"status": true,
 		"info": "Технические неполадки"
 	}
 }
