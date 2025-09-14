@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": true,
-		"info": "Технические работы (подробнее: t.me/arztools_tech)"
+		"status": false,
+		"info": "Технические работы"
 	},
 	"rodina_pc": {
-		"status": true,
-		"info": "Технические работы (подробнее: t.me/arztools_tech)"
+		"status": false,
+		"info": "Технические работы"
 	},
 	"arizona_mobile": {
-		"status": true,
-		"info": "Технические работы (подробнее: t.me/arztools_tech)"
+		"status": false,
+		"info": "Технические работы"
 	}
 }
