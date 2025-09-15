@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": true,
-		"info": "Технические работы до 19:30"
+		"status": false,
+		"info": "Технические работы"
 	},
 	"rodina_pc": {
-		"status": true,
-		"info": "Технические работы до 19:30"
+		"status": false,
+		"info": "Технические работы"
 	},
 	"arizona_mobile": {
-		"status": true,
-		"info": "Технические работы до 19:30"
+		"status": false,
+		"info": "Технические работы"
 	}
 }
