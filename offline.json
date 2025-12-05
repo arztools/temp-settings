@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
 		"status": true,
-		"info": "Сбои в интернете"
+		"info": "Технические неполадки"
 	},
 	"rodina_pc": {
 		"status": true,
-		"info": "Сбои в интернете"
+		"info": "Технические неполадки"
 	},
 	"arizona_mobile": {
 		"status": true,
-		"info": "Сбои в интернете"
+		"info": "Технические неполадки"
 	}
 }
