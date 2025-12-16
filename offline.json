@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": false,
-		"info": "Технические неполадки"
+		"status": true,
+		"info": "Проблемы с авторизацией через VK на сайте"
 	},
 	"rodina_pc": {
-		"status": false,
-		"info": "Технические неполадки"
+		"status": true,
+		"info": "Проблемы с авторизацией через VK на сайте"
 	},
 	"arizona_mobile": {
-		"status": false,
-		"info": "Технические неполадки"
+		"status": true,
+		"info": "Проблемы с авторизацией через VK на сайте"
 	}
 }
