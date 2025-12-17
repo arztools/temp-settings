@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": true,
-		"info": "Проблемы с авторизацией через VK на сайте"
+		"status": false,
+		"info": "-"
 	},
 	"rodina_pc": {
-		"status": true,
-		"info": "Проблемы с авторизацией через VK на сайте"
+		"status": false,
+		"info": "-"
 	},
 	"arizona_mobile": {
-		"status": true,
-		"info": "Проблемы с авторизацией через VK на сайте"
+		"status": false,
+		"info": "-"
 	}
 }
