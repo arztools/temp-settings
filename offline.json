@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": false,
-		"info": "-"
+		"status": true,
+		"info": "Технический сбой (30-60 минут)"
 	},
 	"rodina_pc": {
-		"status": false,
-		"info": "-"
+		"status": true,
+		"info": "Технический сбой (30-60 минут)"
 	},
 	"arizona_mobile": {
-		"status": false,
-		"info": "-"
+		"status": true,
+		"info": "Технический сбой (30-60 минут)"
 	}
 }
