@@ -1,14 +1,14 @@
 {
 	"arizona_pc": {
-		"status": false,
-		"info": "-"
+		"status": true,
+		"info": "Технический перерыв"
 	},
 	"rodina_pc": {
-		"status": false,
-		"info": "-"
+		"status": true,
+		"info": "Технический перерыв"
 	},
 	"arizona_mobile": {
-		"status": false,
-		"info": "-"
+		"status": true,
+		"info": "Технический перерыв"
 	}
 }
