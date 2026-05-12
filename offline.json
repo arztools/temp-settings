@@ -10,9 +10,5 @@
 	"arizona_mobile": {
 		"status": false,
 		"info": "-"
-	},
-	"test": {
-		"status": false,
-		"info": "-"
 	}
 }
