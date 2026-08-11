@@ -1,7 +1,7 @@
 {
 	"arizona_pc": {
-		"status": true,
-		"info": "Временная совместимость с обновлением"
+		"status": false,
+		"info": "-"
 	},
 	"rodina_pc": {
 		"status": false,
